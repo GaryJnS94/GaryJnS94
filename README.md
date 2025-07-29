@@ -1,5 +1,5 @@
 ### Salut, je suis Gary Johnson ! 👋
-Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné basé à Montpellier, France. J'adore créer des applications web et mobiles modernes avec une touche d'élégance et de performance.
+Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné basé à Montpellier, France. Grace à ma premiere experience dans la restauration, je developpe une solution innovante destinée aux restaurateurs et au bar. 
 ### J'utilise principalement GitLab maintenant : https://gitlab.com/GaryJnS94
 
 🌍 Localisation : Montpellier, France
