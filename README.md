@@ -1,34 +1,29 @@
-### Salut, je suis Gary Johnson ! 👋
-Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné basé à Montpellier, France. Grace à ma premiere experience dans la restauration, je developpe une solution innovante destinée aux restaurateurs et au bar. 
-### J'utilise principalement GitLab maintenant : https://gitlab.com/GaryJnS94
+### Salut ! 👋 Je suis Gary Johnson
 
-🌍 Localisation : Montpellier, France
-🎓 Formation : Diplômé en Développement Full Stack JavaScript/Node.js
-💻 Spécialisations : React, React Native, Node.js
-📚 En cours : Certification Concepteur Développeur d'Applications (CDA)
-💻 Spécialisations : React, Node.js, Java, Angular
-📫 Contact : https://www.linkedin.com/in/gary-jsn
+[cite_start]Développeur web en pleine reconversion professionnelle [cite: 3][cite_start], je suis passionné par l'entrepreneuriat et les nouvelles technologies qui façonnent notre monde[cite: 3]. [cite_start]Après une expérience enrichissante dans la gestion d'entreprise[cite: 41, 45], je me consacre maintenant pleinement au développement d'applications web et mobiles.
 
-Mes compétences
+---
 
-Frontend : JavaScript, React, React Native, HTML5, CSS3, Tailwind CSS
-Backend : Node.js, Express, MongoDB
-Outils : Git, Docker, Webpack, VS Code
-Autres : REST APIs, GraphQL, Agile/Scrum
+**🌱 Ce que j'apprends en ce moment :**
 
-Mes projets phares
+[cite_start]Je suis actuellement en formation **Concepteur Développeur d'Applications** chez [Simplon Occitanie](https://occitanie.simplon.co/) (Juillet 2025 - Avril 2026) [cite: 16, 17][cite_start], où je me perfectionne sur les technologies modernes et les méthodologies agiles[cite: 18].
 
-Projet 1 : Une application mobile développée avec React Native pour [description courte].
-Projet 2 : Une application web full stack utilisant Node.js et React pour [description courte].
+**🛠️ Mes Outils & Technologies**
 
-Mes statistiques GitHub
+* [cite_start]**Frontend:** HTML5, CSS3, JavaScript, React, Next.js, Angular [cite: 27, 28, 29, 32, 33]
+* [cite_start]**Mobile:** React Native [cite: 31]
+* [cite_start]**Backend:** Node.js, Java [cite: 30, 34]
+* [cite_start]**Outils & Méthodologies:** Git, Scrum, API REST, Bases de Données, Figma, Notion [cite: 36]
 
+**💡 Mes Centres d'Intérêt**
 
-Fun Facts
+* [cite_start]🤖 Intelligence Artificielle [cite: 10]
+* [cite_start]🎮 Gaming & E-sport [cite: 11]
+* [cite_start]🔗 Web 3 & Blockchain [cite: 12]
+* [cite_start]📈 Finances & Investissement [cite: 12]
 
-🚴 Passionné de jeux vidéos !
-🎸 Ancien batteur ! 
-Personnalitée rock'n'roll! 
+**📫 Comment me contacter ?**
 
+* [cite_start]**LinkedIn :** [linkedin.com/in/gary-jsn](https://www.linkedin.com/in/gary-jsn) [cite: 7]
 
-N'hésitez pas à explorer mes dépôts ou à me contacter pour discuter de projets, de code, ou de Montpellier ! 😄
+---
