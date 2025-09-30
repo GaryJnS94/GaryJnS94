@@ -26,6 +26,6 @@
 
 * [cite_start]**LinkedIn :** [linkedin.com/in/gary-jsn](https://www.linkedin.com/in/gary-jsn) [cite: 7]
 
-  # Je me sert plutôt de GitLab maintenat !!! 
+  # Je me sert plutôt de GitLab maintenat !!! https://gitlab.com/GaryJnS94
 
 ---
