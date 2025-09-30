@@ -27,5 +27,5 @@ Je suis actuellement en formation **Concepteur Développeur d'Applications** che
 * **LinkedIn :** [linkedin.com/in/gary-jsn](https://www.linkedin.com/in/gary-jsn)
 
 ---
-### Je me sers plutôt de GitLab maintenant !!!
+#### Je me sers plutôt de GitLab maintenant !
 https://gitlab.com/GaryJns94
