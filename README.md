@@ -3,16 +3,13 @@
 Développeur web en pleine reconversion professionnelle, je suis passionné par l'entrepreneuriat et les nouvelles technologies qui façonnent notre monde. Après une expérience enrichissante dans la gestion d'entreprise, je me consacre maintenant pleinement au développement d'applications web et mobiles.
 
 ---
-
-**🌱 Ce que j'apprends en ce moment :**
-
-Je suis actuellement en formation **Concepteur Développeur d'Applications** chez [Simplon Occitanie](https://occitanie.simplon.co/) (Juillet 2025 - Avril 2026), où je me perfectionne sur les technologies modernes et les méthodologies agiles.
+En post chez Credit agricole Technologies et service au Credit Agricole Technologies et Services
 
 **🛠️ Mes Outils & Technologies**
 
 * **Frontend :** HTML5, CSS3, JavaScript, React, Next.js, Angular
 * **Mobile :** React Native
-* **Backend :** Node.js, Java
+* **Backend :** Node.js, Java, Spring-booot
 * **Outils & Méthodologies :** Git, Scrum, API REST, Bases de Données, Figma, Notion
 
 **💡 Mes Centres d'Intérêt**
@@ -27,5 +24,5 @@ Je suis actuellement en formation **Concepteur Développeur d'Applications** che
 * **LinkedIn :** [linkedin.com/in/gary-jsn](https://www.linkedin.com/in/gary-jsn)
 
 ---
-#### Je me sers plutôt de GitLab maintenant !
+#### GitLab
 https://gitlab.com/GaryJns94
