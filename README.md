@@ -13,7 +13,7 @@ Avant le développement, j'ai géré ma propre entreprise de restauration pendan
 - **Front-end** : Angular (signals), NgRx SignalStore, TypeScript, Web Components
 - **Back-end** : Java / Spring Boot, Node.js, PostgreSQL
 - **Outils** : Git, GitLab CI/CD, Docker, Kubernetes, Vitest
-- **Méthodes** : Scrum, Jira, Linear, Figma, ADR
+- **Méthodes** : Scrum, Jira, Linear, Figma, Doc
 
 #### Projet en cours
 
